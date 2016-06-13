@@ -3,6 +3,7 @@
 - Lecture: Intro to Week 2 SQL Injection
 - None: The Wall
 - Algorithms: 11 am
+- 
 ##### Assignments:
 - 1 pm Stand Up
 - Lecture: OOP modules, and classes
@@ -39,7 +40,9 @@
 ##### Thursday
 - Lecture: M in MVC
 - Demo/Group Assignment: Courses in Django
-###### Sports Day!
+
+##### Sports Day!
+
 ###### Assignments:
 - Courses in Django (**github**)
 - Login and Registration
@@ -48,6 +51,7 @@
 - Lecture: M in MVC
 - SQL queries for Courses (group assignment)
 - Algorithms 11 am
+
 ###### Assignments
 - Login and Registration 1-2 hrs **github**
 - Semi-restful routes - 2-6 hrs
